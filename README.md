@@ -1,32 +1,41 @@
-# 👋 Hi, I’m Randy Shane
+# Randall (Randy) Shane
 
-**Data & AI Architect | Cloud-Native Solutions Engineer | Applied GenAI Developer**
+**Healthcare AI systems architect · Founder, [Fox River AI](https://www.relufox.ai)**
 
-I design and build **enterprise-grade data and AI platforms** that combine the rigor of data architecture with the creativity of modern generative AI. My work bridges traditional analytics, MLOps, and emerging AI frameworks — always with an emphasis on **governance, trust, and explainability**.
+I design and build production-grade AI for regulated industries — the systems
+enterprises depend on *after* the prototype. My focus is **production RAG and
+LLM governance in regulated healthcare and financial services**: agentic
+orchestration, retrieval over knowledge graphs, and the provenance,
+observability, and conformance that make AI defensible in environments where
+"we re-ran it and hoped" is not an acceptable answer.
 
-### 🧠 Expertise
-- **Cloud Platforms:** AWS (Redshift, Glue, S3, Lake Formation, SageMaker, Bedrock), GCP (BigQuery, Vertex AI)
-- **Data Architecture:** Lakehouse, Data Mesh, Governance & Lineage, ETL/ELT pipelines
-- **AI/ML:** LLM integration, Retrieval-Augmented Generation (RAG), LangChain, Vector Search (FAISS/Chroma)
-- **Engineering Stack:** FastAPI, Python, Neo4j, PostgreSQL, Docker, React
-- **Dev Tools:** AWS CodeWhisperer, GitHub Copilot, Amazon Q
+### What I'm working on
 
----
+- **Agentic AI governance tooling** — an open, Erwin-style approach to
+  *modeling* an agentic system (registry, contracts, manifests) and *seeing*
+  the running one (visibility, lineage, conformance). Forward-engineer the
+  fleet from a spec; reverse-engineer it from its traces.
+  → [link once the org repo exists]
+- **Noesis Health** — a clinical documentation integrity platform built on the
+  same principles: every output carries evidence and confidence, refusal is a
+  first-class output, and the system can prove what it did.
 
-### 🚀 Featured Projects
+### Focus areas
 
-#### 🦊 [Fox River AI Racing](https://github.com/shanemeister/FoxRiverAIRacing)
-Exploring reinforcement learning and simulation environments to model real-world decision-making and adaptive AI behavior in competitive racing contexts. Built as a testbed for **autonomous agent training** and **reward-optimization strategies**.
+Agentic orchestration (MCP, tool-using agents) · Retrieval-augmented generation ·
+Knowledge graphs (Neo4j) · FHIR / HL7 · AWS (Solutions Architect Pro, ML &
+Security Specialty) · GCP (Professional Cloud Architect) · Databricks ·
+LLM observability (OpenTelemetry)
 
-#### 🤖 [GenAI Agent Core](https://github.com/shanemeister/genai-agent-core)
-A **modular RAG + Agentic AI framework** supporting local and hybrid LLMs (Mixtral, LLaMA 3, GPT-4o).  
-Implements vector search (FAISS), semantic tagging, FastAPI endpoints, and multi-agent orchestration for document Q&A, reasoning, and secure enterprise AI workflows.
+### Background
 
----
+30+ years building enterprise systems across healthcare, financial services, and
+defense. Former U.S. Army Captain. I write about why enterprise AI success
+depends on architecture over model selection.
 
-### 🌐 Learn More
-Visit **[Fox River AI](https://www.relufox.ai)** — my applied AI consulting and product studio focused on delivering **secure, explainable, and high-performance AI systems** for small to mid-sized businesses.
+### Elsewhere
 
----
-
-*Always building the bridge between knowledge, reasoning, and intelligent automation.*
+- **Fox River AI** — https://www.relufox.ai
+- **LinkedIn** — [your LinkedIn URL]
+- **Writing** — *Beyond Chatbots: What Enterprise AI Actually Requires* ·
+  *The Agent Registry: Governing Agentic AI Like the Microservices Estate It Actually Is*
