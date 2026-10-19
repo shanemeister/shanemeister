@@ -1,4 +1,4 @@
-# 👋 # Hi, I'm Randy Shane
+# 👋 Hi, I'm Randy Shane
 
 **Principal Data & AI Architect | Enterprise Cloud & Data Platforms | Applied Machine Learning | Agentic AI**
 
